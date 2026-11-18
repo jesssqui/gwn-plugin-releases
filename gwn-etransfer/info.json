@@ -1,0 +1,18 @@
+{
+    "name": "GWN e-Transfer for WooCommerce",
+    "slug": "gwn-etransfer",
+    "version": "1.2.0",
+    "download_url": "https://github.com/jesssqui/gwn-plugin-releases/releases/download/gwn-etransfer-v1.2.0/gwn-etransfer-1.2.0.zip",
+    "signature": "e1EAP6n/BSHQNDzzkau7p/Iffs7m7gRkUbhhPKfQupYbftbkIW1RuzTotYYV1E+6B3ohdtyigeexnQYRG5/6AA==",
+    "sha256": "e4696988a53233cefee72fadf769cb2c7768bb8cf508b1c56ccbd7bb4600d1db",
+    "homepage": "https://greatwhitenorthdesign.ca",
+    "author": "Great White North Design",
+    "author_homepage": "https://greatwhitenorthdesign.ca",
+    "requires": "6.2",
+    "requires_php": "7.4",
+    "last_updated": "2026-11-18 01:09:17",
+    "sections": {
+        "description": "<p>Take Interac e-Transfer payments: customers see the amount, email, security question and answer with copy buttons, orders wait on hold until you mark them paid, with a reminder and auto-cancel.</p>",
+        "changelog": "<h4>1.2.0</h4><p>Free edition, ready for WordPress.org. The e-Transfers inbox and business-day deadlines move to GWN e-Transfer Pro.</p><p><strong>Added</strong></p><ul><li><strong>Setup check</strong> at the top of the payment settings; example addresses like payments@yourstore.ca count as not set.</li><li><strong>Undo</strong> for &quot;I&#039;ve sent it&quot; (15 minutes).</li><li>Settings for the checkout button text and wording; &quot;How to send it&quot; can collapse on phones.</li><li>&quot;Shop again&quot; on cancelled orders; shorter on-hold email intro.</li></ul><p><strong>Changed</strong></p><ul><li>GPL licence, no self-updater; CSS and JS load as files; every string is translatable.</li><li>Interac logo off by default; default title &quot;e-Transfer&quot;. Settings grouped into Receiving account, Security answer, Timing, Wording and Look.</li></ul><h4>1.1.0</h4><p>First release as a standalone plugin for any WooCommerce store.</p><p><strong>Added</strong></p><ul><li><strong>Signed automatic updates.</strong> Stores update from the GWN releases page; each zip&#039;s signature and checksum are checked before it installs. Auto-updates switch on once, with a notice and a link to turn them off.</li><li><strong>Clean uninstall.</strong> Deleting the plugin stops pending reminders and auto-cancels. Order history is never removed; gateway settings are kept unless <code>GWNET_REMOVE_SETTINGS_ON_UNINSTALL</code> is defined.</li></ul><p><strong>Changed</strong></p><ul><li>Plugin header: <code>Update URI</code>, so WordPress.org can never offer an unrelated plugin as an update.</li></ul><h4>1.0.4</h4><p>Built for PouchPlug: Interac e-Transfer gateway (classic + block checkout), pay panel with copy buttons and countdown, per-order security answers, &quot;I&#039;ve sent it&quot; button, reminder + auto-cancel, and the WooCommerce → e-Transfers matching screen.</p>"
+    }
+}
