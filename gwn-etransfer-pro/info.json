@@ -1,0 +1,18 @@
+{
+    "name": "GWN e-Transfer Pro",
+    "slug": "gwn-etransfer-pro",
+    "version": "1.2.0",
+    "download_url": "https://github.com/jesssqui/gwn-plugin-releases/releases/download/gwn-etransfer-pro-v1.2.0/gwn-etransfer-pro-1.2.0.zip",
+    "signature": "9XAxF0rVWUY0OUZn1IUkb1I0MtjBK3Swi1F/PoF7miJMVYF9zGzscWzb1wQrg/OamcdhJLt/XeQsYy9ybDJtAA==",
+    "sha256": "43fcbdf1129b43a0b9fcbb4110ede07b122989ed3284e1cf03cdf9389face5b6",
+    "homepage": "https://greatwhitenorthdesign.ca",
+    "author": "Great White North Design",
+    "author_homepage": "https://greatwhitenorthdesign.ca",
+    "requires": "6.5",
+    "requires_php": "7.4",
+    "last_updated": "2026-11-18 01:09:34",
+    "sections": {
+        "description": "<p>Adds to GWN e-Transfer: the WooCommerce → e-Transfers inbox (every order waiting on payment, with search and one-click Mark paid) and business-day payment deadlines.</p>",
+        "changelog": "<h4>1.2.0</h4><p>First release of the Pro add-on.</p><p><strong>Added</strong></p><ul><li>WooCommerce → e-Transfers inbox (moved from the free plugin).</li><li>Business-day payment deadlines with a closing time; deadline shown as a date.</li><li>Signed updates for this add-on and, until it&#039;s on WordPress.org, for GWN e-Transfer.</li></ul>"
+    }
+}
