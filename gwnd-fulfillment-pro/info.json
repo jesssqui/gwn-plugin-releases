@@ -1,0 +1,18 @@
+{
+    "name": "GWND Fulfillment Pro",
+    "slug": "gwnd-fulfillment-pro",
+    "version": "1.2.0",
+    "download_url": "https://github.com/jesssqui/gwn-plugin-releases/releases/download/gwnd-fulfillment-pro-v1.2.0/gwnd-fulfillment-pro-1.2.0.zip",
+    "signature": "yznPuErNpMKNhi8gW7dyyCiv5ySBO/J0rVP1Vy32X+UipVwrQx+NqzpKWPqw9DlaiZU0rj8QFdOJbpGSyiFrDQ==",
+    "sha256": "e9dab28a1c92172730c57c39f03da11ecf2e2e63a4004d724ccade0eaaac52ae",
+    "homepage": "https://greatwhitenorthdesign.ca",
+    "author": "Great White North Design",
+    "author_homepage": "https://greatwhitenorthdesign.ca",
+    "requires": "6.5",
+    "requires_php": "7.4",
+    "last_updated": "2026-11-18 01:10:07",
+    "sections": {
+        "description": "<p>Adds to GWND Fulfillment: live tracking from Canada Post, UPS and Purolator, or every carrier through one Ship24 key (status on the order, delivered/problem emails, store alerts), ShipStation tracking capture, more page styles and the full style builder, 4×6 and bulk packing slips, and white-label branding.</p>",
+        "changelog": "<h4>1.2.0</h4><p>First release of the Pro add-on.</p><p><strong>Added</strong></p><ul><li>ShipStation tab: pick up tracking numbers from ShipStation labels, keep ShipStation&#039;s duplicate shipped note private, import from recent order notes.</li><li>Styles Poster, Split, Banner, Receipt and Route, the style builder, custom CSS, and style export/import.</li><li>4×6 packing slips and bulk printing; Branding tab for white-label.</li><li>Live tracking from carrier APIs is not included for now: customers get a link to the carrier&#039;s own tracking page. Updating from a test build stops the old poller and deletes saved carrier keys.</li><li>Signed updates for this add-on and, until it&#039;s on WordPress.org, for GWND Fulfillment.</li></ul>"
+    }
+}
